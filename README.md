@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/VfT8U4Cl)
 aplikacia sa bude volať go_productivity pôjde o aplikáciu kde si budeme môcť  pridávať rôzne tasky na rôzne dni ako napríklad vypiť 5 pohárov vody alebo 5000 krokov na deň vude tak isto aj možnosť vzbrať si či chceme na daný task notifikáciu počas daného dňa alebo nie.
 Pri tvorbe tasku si budeme môcť povedať či to bude task na celý mesiac nasledujúcih 5 dní alebo len špecifický deň.
 Tak isto si dané tasky budeme môcť odškrtávať zo zoznamu.
